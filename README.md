@@ -17,7 +17,7 @@ A simple and lightweight npm package for performing **binary search** on sorted 
 Install the package using npm:
 
 ```bash
-npm i binary-search-package-praveen219barfa
+npm i binary-search-package-219new
 ```
 
 ## Usage
@@ -25,7 +25,8 @@ npm i binary-search-package-praveen219barfa
 Import the package and use the binarySearch function:
 
 ```
-const binarySearch = require('binary-search-package-praveen219barfa');
+
+const binarySearch = require('binary-search-package-219new');
 
 // Example usage
 const sortedArray = [1, 3, 5, 7, 9];
